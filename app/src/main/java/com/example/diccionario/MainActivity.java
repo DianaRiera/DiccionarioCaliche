@@ -24,7 +24,166 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Diccionario = new ArrayList<>();
-        Diccionario.add(new Diccionario("Hola", "quetal"));
+        //A
+        Diccionario.add(new Diccionario("A huevo", "Es cierto."));
+        Diccionario.add(new Diccionario("Anantes", "Por suerte."));
+        Diccionario.add(new Diccionario("Apapo", "Acción de Sorpresa, es decir, estar sorprendido."));
+        Diccionario.add(new Diccionario("Atucún", "Beber un liquido de prisa."));
+        Diccionario.add(new Diccionario("Agarrado", "Avaro, tacaño."));
+
+        //B
+        Diccionario.add(new Diccionario("Babosada", "Tontería. Cosa, objeto."));
+        Diccionario.add(new Diccionario("Baleada", "Tortilla de harina con frijoles."));
+        Diccionario.add(new Diccionario("Ballunco", "Tonto."));
+        Diccionario.add(new Diccionario("Birria", "Cerveza."));
+        Diccionario.add(new Diccionario("Brisa", "Vientecillo impregnado de agua."));
+
+        //C
+        Diccionario.add(new Diccionario("Cachimbazo", "Golpe fuerte."));
+        Diccionario.add(new Diccionario("Calache", "Cachivache. Cosa de escaso valor."));
+        Diccionario.add(new Diccionario("Catrín", "Bien Vestido."));
+        Diccionario.add(new Diccionario("Chabacán", "Alguien muy bromista."));
+        Diccionario.add(new Diccionario("Cheque", "Todo bien ."));
+
+        //D
+        Diccionario.add(new Diccionario("De choto", "De gratis."));
+        Diccionario.add(new Diccionario("Desboronar", "Deshacer."));
+        Diccionario.add(new Diccionario("Desburrungar", "Tumbar, hacer caer."));
+        Diccionario.add(new Diccionario("Daime", "Moneda."));
+        Diccionario.add(new Diccionario("Dron", "Barril."));
+
+        //E
+        Diccionario.add(new Diccionario("Echar Cuento", "Enamorar, Seducir."));
+        Diccionario.add(new Diccionario("Encachimbarse", "Enojarse."));
+        Diccionario.add(new Diccionario("Encaramar", "Subir."));
+        Diccionario.add(new Diccionario("Enchibolarse", "Confundirse."));
+        Diccionario.add(new Diccionario("Estanco", "Cantina."));
+
+        //F
+        Diccionario.add(new Diccionario("Galera", "Cobertizo."));
+        Diccionario.add(new Diccionario("Guamazo", "Golpe."));
+        Diccionario.add(new Diccionario("Guaro", "Agua ardiente."));
+        Diccionario.add(new Diccionario("Guineo", "Banano."));
+        Diccionario.add(new Diccionario("GÜirro", "Niño."));
+
+        //G
+        Diccionario.add(new Diccionario("Hacerse el de apeso", "Disimular."));
+        Diccionario.add(new Diccionario("Hacer Clavo", "Denunciar."));
+        Diccionario.add(new Diccionario("Hasta los queques", "Ir lleno(Un Autobús), estar hastiado de algo."));
+        Diccionario.add(new Diccionario("Hueva", "Pereza."));
+        Diccionario.add(new Diccionario("Hueviar", "Hurtar."));
+
+        //H
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //I
+        Diccionario.add(new Diccionario("", "."));
+
+        //J
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //L
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //M
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //N
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //Ñ
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //O
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //P
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //Q
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //R
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //S
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //T
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //U
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //V
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //Y
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
+        //Z
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+        Diccionario.add(new Diccionario("", "."));
+
 
         adapter = new DiccionarioAdapter();
 
