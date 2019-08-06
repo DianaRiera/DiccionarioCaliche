@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().setDisplayShowHomeEnabled(true);
+        getSupportActionBar().setIcon(R.mipmap.ic_launcher);
+
         Diccionario = new ArrayList<>();
         //A
         Diccionario.add(new Diccionario("A huevo:", "Es cierto."));
@@ -171,11 +174,8 @@ public class MainActivity extends AppCompatActivity {
         Diccionario.add(new Diccionario("Yuca:", "Difícil."));
 
         //Z
-        Diccionario.add(new Diccionario("Zacate:", "Pasto."));
         Diccionario.add(new Diccionario("Zampado:", "Metido."));
-        Diccionario.add(new Diccionario("Zarandajo:", "Algo que molesta."));
         Diccionario.add(new Diccionario("Zumbado:", "Andar rápido. Estar levemente ebrio."));
-        Diccionario.add(new Diccionario("Zurumbo:", "Mareado, lumbo."));
 
 
         adapter = new DiccionarioAdapter();
